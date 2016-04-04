@@ -1,0 +1,28 @@
+name: Nauset Acquisitions Inc
+favicon: null
+layout_spectrum: 0.5080129050184041
+typography_spectrum: 0.6125578684732318
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3951268708333373
+  lightness: 0.29648922639898956
+  saturation: 0.6119474922306836
+  rhythmicContrast: 0.33229933655820787
+purpose: []
