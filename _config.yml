@@ -1,19 +1,4 @@
-name: Nauset Acquisitions Inc
-favicon: null
-layout_spectrum: 0.25592
 typography_spectrum: 0.6125578684732318
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0cbbd0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.29648922639898956
   saturation: 0.6119474922306836
   rhythmicContrast: 0.33229933655820787
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25592
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Nauset Acquisitions Inc
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'What goes on inside the walls is more important than the walls. '
 purpose: []
